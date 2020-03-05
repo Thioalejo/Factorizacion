@@ -1,0 +1,13 @@
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\bin\Debug\netstandard2.0\Factorizacion.deps.json
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\bin\Debug\netstandard2.0\Factorizacion.dll
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\bin\Debug\netstandard2.0\ref\Factorizacion.dll
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\bin\Debug\netstandard2.0\Factorizacion.pdb
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\Factorizacion.csprojAssemblyReference.cache
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\Factorizacion.AssemblyInfoInputs.cache
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\Factorizacion.AssemblyInfo.cs
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\Factorizacion.dll
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\ref\Factorizacion.dll
+C:\Users\alejo\source\repos\Factorizacion\Factorizacion\Factorizacion\obj\Debug\netstandard2.0\Factorizacion.pdb

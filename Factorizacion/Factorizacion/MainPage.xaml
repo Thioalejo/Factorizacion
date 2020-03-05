@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Factorizacion.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Factoriza aplicando la formula general"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+
+            <Image Source="https://es-static.z-dn.net/files/d25/948276266f20d50c66fab85f8b654015.jpg" WidthRequest="200" HorizontalOptions="Center"></Image>
+
+            <StackLayout Orientation="Vertical" Margin="10">
+                <Label Text="A = "></Label>
+                <Entry x:Name="txtA" Placeholder="Ingrese A" Keyboard="Numeric" ></Entry>
+                <Label Text="B = "></Label>
+                <Entry x:Name="txtB" Placeholder="Ingrese B" Keyboard="Numeric" ></Entry>
+                <Label Text="C = "></Label>
+                <Entry x:Name="txtC" Placeholder="Ingrese C" Keyboard="Numeric" ></Entry>
+            </StackLayout>
+            <Label Text="Resultado" x:Name="lblResultado"></Label>
+            <Button x:Name="btnCalcular" Clicked="BtnCalcular_Clicked" Text="Factorizar"></Button>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
